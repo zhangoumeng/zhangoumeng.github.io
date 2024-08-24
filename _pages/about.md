@@ -13,7 +13,7 @@ I am a postdoctoral researcher in [the Biophotonics Lab](https://biophot.caltech
 
 
 **2024/08**  
-Our collaborative work with [the Newman Lab](https://dknweb.caltech.edu/) at Caltech entitled "[Investigating 3D microbial community dynamics of the rhizosphere using quantitative phase and fluorescence microscopy](https://www.pnas.org/doi/abs/10.1073/pnas.2403122121)" is now published in *PNAS*!  
+Our collaborative work with [the Newman Lab](https://dknweb.caltech.edu/) at Caltech entitled "[Investigating 3D microbial community dynamics of the rhizosphere using quantitative phase and fluorescence microscopy](https://www.pnas.org/doi/abs/10.1073/pnas.2403122121)" is now published in *PNAS!*  
 Press coverage [here](https://www.caltech.edu/about/news/new-technology-images-microbes-in-3d/)!
 
 
@@ -35,13 +35,13 @@ Our news article, "[Single-molecule orientation-localization microscopy](https:/
 **2023/04, updated 2023/09**  
 My mentee, [Victoria Fay](https://people.epfl.ch/victoria.fay/?lang=en), has successfully defended her Master's thesis, "Improving planar
 optodes lifetime: Encapsulation and optical release of pH sensing optodes and assessment of their lifetime in-situ." Congratulations Victoria!  
-Victoria has won the *Swiss Photonics Prize 2023*, and her paper is published in *Journal of Soils and Sediments*! Read it [here](https://link.springer.com/article/10.1007/s11368-023-03650-4).
+Victoria has won the *Swiss Photonics Prize 2023*, and her paper is published in *Journal of Soils and Sediments*. Read it [here](https://link.springer.com/article/10.1007/s11368-023-03650-4).
 
 **2023/03**  
 I participated in a one-week workshop titled "[Targeting Microhabitats for Life Detection - Part II](https://www.kiss.caltech.edu/workshops/Microhabitats/Microhabitats2.html)," hosted by the Keck Institute for Space Studies (KISS) at Caltech.
 
 **2022/12**  
-Our collaborative work with [the Vahey Lab](https://vaheylab.wustl.edu/) at WashU Biomedical Engineering entitled "[Six-dimensional single-molecule imaging with isotropic resolution using a multi-view reflector microscope](https://www.nature.com/articles/s41566-022-01116-6)" is now published in *Nature Photonics*!  
+Our collaborative work with [the Vahey Lab](https://vaheylab.wustl.edu/) at WashU Biomedical Engineering entitled "[Six-dimensional single-molecule imaging with isotropic resolution using a multi-view reflector microscope](https://www.nature.com/articles/s41566-022-01116-6)" is now published in *Nature Photonics!*  
 Press coverage [here](https://source.washu.edu/2022/12/telescope-inspired-microscope-sees-molecules-in-6d/)!
 
 **2022/11**  

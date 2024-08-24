@@ -34,3 +34,6 @@ The primary challenge in rhizosphere imaging stems from the difficulty of findin
 *CFAST imaging of gene expression of P. syn PphoA-mNG under phosphorus limitation. The growth is tracked by the complex field and gene expression by fluorescence.*
 
 Another significant challenge in rhizosphere imaging is the necessity for a large field of view given the size of plant roots. High-resolution 3D imaging that requires axial scanning over such expansive areas can be time-consuming. We address this limitation using *single-shot volumetric fluorescence (SVF) imaging*, which typically encodes 3D data into a single 2D image, followed by computational reconstruction. However, unlike traditional SVF methods, our [*QuadraPol PSF*](https://arxiv.org/abs/2405.10463) maps 3D information directly onto a 3D measurement using a polarization camera, overcoming the sparsity constraints. We also developed a reconstruction algorithm with improved reconstruction quality based on neural fields. We have demonstrated the effectiveness of both our hardware and algorithm by imaging bacterial colonies and plant roots. Check out the project webpage [here](https://hwzhou2020.github.io/SVF-Web/)!
+
+![](/files/rhizo_svf.gif)  
+*Reconstructing 3D wheat roots using a raw polarized image. AoLP: angle of linear polarization.*
