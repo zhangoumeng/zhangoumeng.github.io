@@ -68,6 +68,9 @@ Current Position: Doctoral Program in Photonics at Ecole Polytechnique Fédéral
 
 # Press
 
+**2024/08**  
+New Technology Images Microbes in 3D, *The Caltech Weekly*
+
 **2024/01**  
 Single-molecule orientation-localization microscopy: 6D images of cells with nanoscale resolution, *Wiley Analytical Science Magazine*
 
