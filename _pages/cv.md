@@ -83,6 +83,9 @@ Outstanding graduates: Oumeng Zhang, class 2022, *McKelvey School of Engineering
 **2022/05**  
 Lew lab sheds new light on cell membranes, *The Source*
 
+**2019/08**
+New, fundamental limit to ‘seeing and believing’ in imaging, *The Source*
+
 # Publications
 ## Journal Articles
 
@@ -126,7 +129,7 @@ Lew lab sheds new light on cell membranes, *The Source*
 
 [2] H. Zhou, S. Lin, M. Watson, C. T. Bernadt, **O. Zhang**, R. Govindan, R. J. Cote, and C. Yang, "Length-scale study in deep learning prediction for non-small cell lung cancer brain metastasis," arXiv 2406.00555 (2024).
 
-[1] **O. Zhang**, H. Zhou, B. Y. Feng, E. M. Larsson, R. E. Alcalde, S. Yin, C. Deng, and C. Yang, "Single-shot volumetric fluorescence imaging with neural fields," arXiv 2405.10463 (2024), under peer review at *Optica*.
+[1] **O. Zhang**, H. Zhou, B. Y. Feng, E. M. Larsson, R. E. Alcalde, S. Yin, C. Deng, and C. Yang, "Single-shot volumetric fluorescence imaging with neural fields," arXiv 2405.10463 (2024).
 
 ## Patents
 
