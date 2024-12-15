@@ -12,9 +12,10 @@ I am a postdoctoral researcher in [the Biophotonics Lab](https://biophot.caltech
 ## News
 
 
-**2024/08**  
+**2024/08, updated 2024/09**  
 Our collaborative work with [the Newman Lab](https://dknweb.caltech.edu/) at Caltech entitled "[Investigating 3D microbial community dynamics of the rhizosphere using quantitative phase and fluorescence microscopy](https://www.pnas.org/doi/abs/10.1073/pnas.2403122121)" is now published in *PNAS!*  
 Press coverage [here](https://www.caltech.edu/about/news/new-technology-images-microbes-in-3d/)!
+This work is covered by *Science*. Read it [here](https://www.science.org/doi/10.1126/science.adt0513)!
 
 
 **2024/06**  
