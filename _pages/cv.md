@@ -68,7 +68,7 @@ Current Position: Doctoral Program in Photonics at Ecole Polytechnique Fédéral
 
 # Press
 
-**2024/09**
+**2024/09**  
 Observing soil bacterial ecosystems, *Science*
 
 **2024/08**  
