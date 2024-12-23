@@ -12,16 +12,17 @@ I am a postdoctoral researcher in [the Biophotonics Lab](https://biophot.caltech
 ## News
 
 
+**2024/12**  
+Our review paper entitled "[Single-molecule orientation-localization microscopy: Applications and approaches](https://doi.org/10.1017/S0033583524000167)" is published in *Quarterly Reviews of Biophysics*.
+
 **2024/08, updated 2024/09**  
 Our collaborative work with [the Newman Lab](https://dknweb.caltech.edu/) at Caltech entitled "[Investigating 3D microbial community dynamics of the rhizosphere using quantitative phase and fluorescence microscopy](https://www.pnas.org/doi/abs/10.1073/pnas.2403122121)" is now published in *PNAS!*  
 Press coverage [here](https://www.caltech.edu/about/news/new-technology-images-microbes-in-3d/)!  
 This work is covered by *Science*. Read it [here](https://www.science.org/doi/10.1126/science.adt0513)!
 
-
 **2024/06**  
 Our collaborative work with [Mango Inc.](https://www.mangomicro.com/) is published in *Biomedical Optics Express*. Read it here:  
 [Long-term imaging of three-dimensional hyphal development using the ePetri dish](https://opg.optica.org/boe/fulltext.cfm?uri=boe-15-7-4292&id=552212)
-
 
 **2024/05**  
 I gave an *invited* talk entitled "Six-dimensional nanoscopy for visualizing amyloid-membrane interactions" at the *ARVO 2024 Annual Meeting* in Seattle.
