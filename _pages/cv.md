@@ -95,6 +95,8 @@ New, fundamental limit to ‘seeing and believing’ in imaging, *The Source*
 # Publications
 ## Journal Articles
 
+[18] **O. Zhang**, H. Zhou, B. Y. Feng, E. M. Larsson, R. E. Alcalde, S. Yin, C. Deng, and C. Yang, "Single-shot volumetric fluorescence imaging with neural fields," *Advanced Photonics* **7**(2), 026001 (2025).
+
 [17] **O. Zhang** and M. D. Lew, "Single-molecule orientation-localization microscopy: applications and approaches," *Quarterly Reviews of Biophysics* **57**, e17 (2024).
 
 [16] E. Bruggeman, **O. Zhang**, L. Needham, M. Körbel, S. Daly, M. Cheetham, R. Peters, T. Wu, A. S. Klymchenko, S. J. Davis, E. K. Paluch, D. Klenerman, M. D. Lew, K. O'Holleran, and S. F. Lee, "POLCAM: instant molecular orientation microscopy for the life sciences," *Nature Methods* **21**, 1873 (2024).
@@ -132,10 +134,6 @@ New, fundamental limit to ‘seeing and believing’ in imaging, *The Source*
 ## Conference Papers (Peer Reviewed)
 
 [1] H. Mazidi, E. S. King, **O. Zhang**, A. Nehorai, and M. D. Lew, "Dense super-resolution imaging of molecular orientation via joint sparse basis deconvolution and spatial pooling," *2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)*, 325 (2019).
-
-## Preprints
-
-[1] **O. Zhang**, H. Zhou, B. Y. Feng, E. M. Larsson, R. E. Alcalde, S. Yin, C. Deng, and C. Yang, "Single-shot volumetric fluorescence imaging with neural fields," arXiv 2405.10463 (2024).
 
 ## Patents
 

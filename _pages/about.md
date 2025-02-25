@@ -11,6 +11,8 @@ I am a postdoctoral researcher in [the Biophotonics Lab](https://biophot.caltech
 
 ## News
 
+**2025/02**  
+Our paper entitled "[Single-shot volumetric fluorescence imaging with neural fields](https://doi.org/10.1117/1.AP.7.2.026001)" is published in *Advanced Photonics*.
 
 **2024/12**  
 Our review paper entitled "[Single-molecule orientation-localization microscopy: Applications and approaches](https://doi.org/10.1017/S0033583524000167)" is published in *Quarterly Reviews of Biophysics*.
