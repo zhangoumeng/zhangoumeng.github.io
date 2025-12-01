@@ -11,6 +11,11 @@ redirect_from:
 
 # Appointments
 
+**2025-present**  
+**Assistant Professor**  
+Texas A&M University
+Department of Physics & Astronomy, Institute for Quantum Science and Engineering
+
 **2022-present**  
 **Postdoctoral Research Associate**  
 California Institute of Technology  
@@ -53,19 +58,6 @@ Grader at Washington University in St. Louis
 Course: ESE 582, Fundamentals and Applications of Modern Optical Imaging  
 *Grade homework, design problem set for exam*
 
-# Mentoring
-
-**Fall 2022**  
-**Paulina Naydenkov**  
-B.S. in Chemical Engineering, California Institute of Technology  
-The Summer Undergraduate Research Fellowships (SURF) program
-
-**Spring 2023**  
-**Victoria Fay**  
-M.S. in Microengineering, Ecole Polytechnique Fédérale de Lausanne  
-*Swiss Photonics Prize 2023*  
-Current Position: Doctoral Program in Photonics at Ecole Polytechnique Fédérale de Lausanne
-
 # Press
 
 **2024/09**  
@@ -94,6 +86,8 @@ New, fundamental limit to ‘seeing and believing’ in imaging, *The Source*
 
 # Publications
 ## Journal Articles
+
+[19] **O. Zhang** and C. Yang, "Five-dimensional single-shot fluorescence imaging using a polarized Fourier light-field microscope," *Optical Engineering* **64**(6), 063101 (2025).
 
 [18] **O. Zhang**, H. Zhou, B. Y. Feng, E. M. Larsson, R. E. Alcalde, S. Yin, C. Deng, and C. Yang, "Single-shot volumetric fluorescence imaging with neural fields," *Advanced Photonics* **7**(2), 026001 (2025).
 
@@ -166,20 +160,3 @@ New, fundamental limit to ‘seeing and believing’ in imaging, *The Source*
 [2] "Mapping the chemical composition and nanoscale structure of lipid membranes using polarized fluorescence from single molecules," 66th Biophysical Society Annual Meeting, San Francisco, CA, February 2022.
 
 [1] "Fundamental limits of measuring single-molecule rotational mobility," SPIE Photonics West BiOS, San Francisco, CA, January 2019.
-
-# Peer Reviews
-
-(4) Journal of the Optical Society of America A  
-(2) Physical Review Letters  
-(2) Optics Express  
-(2) Optics Letters  
-(2) eLife  
-(1) Nature Communications  
-(1) Optica  
-(1) Biomedical Optics Express  
-(1) Physical Review Research  
-(1) AIP Advances  
-(1) Communications Biology  
-(1) IEEE Transactions on Computational Imaging  
-(1) IEEE Photonics Journal  
-(1) The Journal of Chemical Physics
