@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in [the Biophotonics Lab](https://biophot.caltech.edu/) at the California Institute of Technology, under the supervision of Dr. Changhuei Yang. I received my B.S. in electrical engineering from Shanghai Jiao Tong University (2014) and my M.S. (2017) and Ph.D. (2022) in electrical engineering from Washington University in St. Louis. During my graduate studies, I worked in [the Lew Lab](https://lewlab.wustl.edu/) and was advised by Dr. Matthew D. Lew. My research interests include single-molecule microscopy, computational imaging, and imaging system design.
+I am an assistant professor in the [Department of Physics & Astronomy](https://artsci.tamu.edu/physics-astronomy/index.html) at Texas A&M University and an affiliate of the Institute for Quantum Science and Engineering ([IQSE](https://iqse.tamu.edu/)). Prior to joining Texas A&M, I was a postdoctoral researcher in [the Biophotonics Lab](https://biophot.caltech.edu/) at the California Institute of Technology, working with Dr. Changhuei Yang. I earned my B.S. in electrical engineering from Shanghai Jiao Tong University (2014), and my M.S. (2017) and Ph.D. (2022) in electrical engineering from Washington University in St. Louis, where I conducted graduate research in [the Lew Lab](https://lewlab.wustl.edu/) under the supervision of Dr. Matthew D. Lew. My research interests include single-molecule microscopy, computational imaging, and imaging system design.
 
 ## News
+
+**2025/08**  
+I joined the Department of Physics & Astronomy at Texas A&M University as an [assistant professor](https://artsci.tamu.edu/physics-astronomy/contact/profiles/oumeng-zhang.html)!
+
+**2025/06**  
+Our paper entitled "[Five-dimensional single-shot fluorescence imaging using a polarized Fourier light-field microscope](https://doi.org/10.1117/1.OE.64.6.063101)" is published in *Optical Engineering*.
 
 **2025/02**  
 Our paper entitled "[Single-shot volumetric fluorescence imaging with neural fields](https://doi.org/10.1117/1.AP.7.2.026001)" is published in *Advanced Photonics*.
